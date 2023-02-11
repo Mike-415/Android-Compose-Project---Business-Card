@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android Compose Project - Business Card</string>
+    <string name="full_name">Michael Go</string>
+    <string name="title">Former web developer\naspiring to become an\nAndroid developer</string>
+    <string name="phone_number">(415) 555-1212</string>
+    <string name="email">mike.go@gmail.com</string>
 </resources>
